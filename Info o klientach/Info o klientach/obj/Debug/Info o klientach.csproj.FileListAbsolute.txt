@@ -1,0 +1,12 @@
+C:\Users\Olek\source\repos\Info o klientach\Info o klientach\bin\Debug\Info o klientach.exe.config
+C:\Users\Olek\source\repos\Info o klientach\Info o klientach\bin\Debug\Info o klientach.exe
+C:\Users\Olek\source\repos\Info o klientach\Info o klientach\bin\Debug\Info o klientach.pdb
+C:\Users\Olek\source\repos\Info o klientach\Info o klientach\obj\Debug\Info o klientach.csproj.AssemblyReference.cache
+C:\Users\Olek\source\repos\Info o klientach\Info o klientach\obj\Debug\Info o klientach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Olek\source\repos\Info o klientach\Info o klientach\obj\Debug\Info_o_klientach.Properties.Resources.resources
+C:\Users\Olek\source\repos\Info o klientach\Info o klientach\obj\Debug\Info o klientach.csproj.GenerateResource.cache
+C:\Users\Olek\source\repos\Info o klientach\Info o klientach\obj\Debug\Info o klientach.csproj.CoreCompileInputs.cache
+C:\Users\Olek\source\repos\Info o klientach\Info o klientach\obj\Debug\Info o klientach.exe
+C:\Users\Olek\source\repos\Info o klientach\Info o klientach\obj\Debug\Info o klientach.pdb
+C:\Users\Olek\source\repos\Info o klientach\Info o klientach\obj\Debug\Info_o_klientach.Form2.resources
+C:\Users\Olek\source\repos\Info o klientach\Info o klientach\obj\Debug\Info_o_klientach.StronaGlowna.resources
